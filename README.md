@@ -1,7 +1,7 @@
 # Reporting-Tool-with-Kafka
 
 It is Simple Reporting Tool (SRT) for the Twitter data.
-The tool provide some interesting statistics and summaries based on tweets dataset. As the underlying temporary storage, Kafka is using.
+The tool provide some interesting statistics and summaries based on tweets dataset. As the underlying temporary storage, Kafka is used.
  
 SRT consists of the following pieces:
 1.	Kafka producer which simulates using Twitter API by reading the tweets from the existing dataset and posts them to Kafka.
