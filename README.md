@@ -30,4 +30,13 @@ To download results of report:
   "gs://ucuc_big_data_hw2_bucket/hw2_reports/report3.json" \
   "gs://ucuc_big_data_hw2_bucket/hw2_reports/report4.json" \
   "gs://ucuc_big_data_hw2_bucket/hw2_reports/report5.json" \
- ``` .
+ ``` 
+ or http links
+ ```
+ https://storage.cloud.google.com/ucuc_big_data_hw2_bucket/hw2_reports/report1.json
+ https://storage.cloud.google.com/ucuc_big_data_hw2_bucket/hw2_reports/report2.json
+ https://storage.cloud.google.com/ucuc_big_data_hw2_bucket/hw2_reports/report3.json
+ https://storage.cloud.google.com/ucuc_big_data_hw2_bucket/hw2_reports/report4.json
+ https://storage.cloud.google.com/ucuc_big_data_hw2_bucket/hw2_reports/report5.json
+ ```
+ .
